@@ -1,5 +1,4 @@
 // 3. PIECE SUBCLASSES
-// ---------------------------------------------------------
 class Knight : public Piece {
 public:
     Knight(Color c) : Piece(c, (c == WHITE ? 'N' : 'n')) {}

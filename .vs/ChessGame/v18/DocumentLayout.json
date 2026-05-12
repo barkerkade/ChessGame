@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5434E48-D7A2-B751-0D34-0582346F773B}|ChessGame.vcxproj|C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5434E48-D7A2-B751-0D34-0582346F773B}|ChessGame.vcxproj|solutionrelative:ChessGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5434E48-D7A2-B751-0D34-0582346F773B}|ChessGame.vcxproj|C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5434E48-D7A2-B751-0D34-0582346F773B}|ChessGame.vcxproj|solutionrelative:Piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Piece.cpp",
+              "DocumentMoniker": "C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\Piece.cpp",
+              "RelativeDocumentMoniker": "Piece.cpp",
+              "ToolTip": "C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\Piece.cpp",
+              "RelativeToolTip": "Piece.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-11T18:35:46.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChessGame.cpp",
+              "DocumentMoniker": "C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\ChessGame.cpp",
+              "RelativeDocumentMoniker": "ChessGame.cpp",
+              "ToolTip": "C:\\Users\\geeda\\source\\repos\\barkerkade\\ChessGame\\ChessGame.cpp",
+              "RelativeToolTip": "ChessGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-11T18:35:24.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
